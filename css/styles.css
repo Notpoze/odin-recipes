@@ -1,0 +1,17 @@
+* {
+    color: rgb(0, 0, 0);
+    background-color: rgb(184, 179, 179);
+    text-align: center;
+  }
+img {
+  width: auto;
+  height: 500px;
+}
+.list {
+  list-style: circle;
+  list-style-position: inside;
+}
+.number-list {
+  list-style: decimal;
+  list-style-position: inside;
+}
